@@ -5,7 +5,9 @@
 </p> 
 
 
-A repository for submitting your flutter projects for the GDSC IGDTUW Autumn of Code programme.
+A repository for showcasing your Flutter Projects for the GDSC IGDTUW Autumn of Code program.
+Create an issue describing the project you want to contribute, wait for it to get assigned to you and contribute!
+You can add any flutter project you have worked on. 
 
 ## CONTRIBUTING TO THIS PROJECT
 
