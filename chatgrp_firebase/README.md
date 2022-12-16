@@ -1,16 +1,21 @@
-# chatgrp_firebase
+# Gossipy
+Group Chat Application authenticate by FireBase </br>
 
-A new Flutter project.
+## Check out the Demo video
 
-## Getting Started
+https://user-images.githubusercontent.com/77066770/208163570-92a5f0d4-4e3e-467f-b87d-6384c532ef7b.mp4
 
-This project is a starting point for a Flutter application.
+## Fututre Developments
+- Recovery of user Account
+- Email verification
+- Password reset
+- Profile Picture upload option
+- Clearing chat history option
 
-A few resources to get you started if this is your first Flutter project:
+## Note from Developer
+- Suggestions are welcome
+- feel free to reach out!!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Connect with me
+- [Linkedin](https://www.linkedin.com/in/mansi-joshi-663aa81a0/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
